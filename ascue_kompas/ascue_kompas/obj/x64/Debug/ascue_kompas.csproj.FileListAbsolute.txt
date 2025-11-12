@@ -1,0 +1,5 @@
+C:\Users\oito07\Documents\Visual Studio 2008\Projects\ascue_kompas\ascue_kompas\obj\x64\Debug\ascue_kompas.csproj.ResolveComReference.cache
+C:\Users\oito07\Documents\Visual Studio 2008\Projects\ascue_kompas\ascue_kompas\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\oito07\Documents\Visual Studio 2008\Projects\ascue_kompas\ascue_kompas\obj\x64\Debug\ascue_kompas.View.resources
+C:\Users\oito07\Documents\Visual Studio 2008\Projects\ascue_kompas\ascue_kompas\obj\x64\Debug\ascue_kompas.Properties.Resources.resources
+C:\Users\oito07\Documents\Visual Studio 2008\Projects\ascue_kompas\ascue_kompas\obj\x64\Debug\ascue_kompas.csproj.GenerateResource.Cache

@@ -1,0 +1,25 @@
+C:\Users\oito07\Documents\Visual Studio 2008\Projects\ascue_kompas\ascue_kompas\bin\Debug\ascue_kompas.exe
+C:\Users\oito07\Documents\Visual Studio 2008\Projects\ascue_kompas\ascue_kompas\bin\Debug\ascue_kompas.pdb
+C:\Users\oito07\Documents\Visual Studio 2008\Projects\ascue_kompas\ascue_kompas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\oito07\Documents\Visual Studio 2008\Projects\ascue_kompas\ascue_kompas\obj\Debug\ascue_kompas.View.resources
+C:\Users\oito07\Documents\Visual Studio 2008\Projects\ascue_kompas\ascue_kompas\obj\Debug\ascue_kompas.Properties.Resources.resources
+C:\Users\oito07\Documents\Visual Studio 2008\Projects\ascue_kompas\ascue_kompas\obj\Debug\ascue_kompas.csproj.GenerateResource.Cache
+C:\Users\oito07\Documents\Visual Studio 2008\Projects\ascue_kompas\ascue_kompas\obj\Debug\ascue_kompas.exe
+C:\Users\oito07\Documents\Visual Studio 2008\Projects\ascue_kompas\ascue_kompas\obj\Debug\ascue_kompas.pdb
+C:\Users\oito07\Documents\Visual Studio 2008\Projects\ascue_kompas\ascue_kompas\obj\Debug\ascue_kompas.csproj.ResolveComReference.cache
+C:\Users\oito07\Documents\Visual Studio 2008\Projects\ascue_kompas\ascue_kompas\obj\Debug\ascue_kompas.Options.resources
+C:\Users\oito07\Documents\Visual Studio 2008\Projects\ascue_kompas\ascue_kompas\bin\Debug\ascue_kompas.exe.config
+C:\Users\oito07\Documents\Visual Studio 2008\Projects\ascue_kompas\ascue_kompas\obj\Debug\ascue_kompas.Options_neotvet.resources
+D:\forrges\workdiskoito07\ascue_kompas\ascue_kompas\bin\Debug\ascue_kompas.exe.config
+D:\forrges\workdiskoito07\ascue_kompas\ascue_kompas\obj\Debug\ascue_kompas.csproj.ResolveComReference.cache
+D:\forrges\workdiskoito07\ascue_kompas\ascue_kompas\obj\Debug\ascue_kompas.exe
+D:\forrges\workdiskoito07\ascue_kompas\ascue_kompas\obj\Debug\ascue_kompas.pdb
+D:\forrges\workdiskoito07\ascue_kompas\ascue_kompas\bin\Debug\ascue_kompas.exe
+D:\forrges\workdiskoito07\ascue_kompas\ascue_kompas\bin\Debug\ascue_kompas.pdb
+D:\forrges\workdiskoito07\ascue_kompas\ascue_kompas\obj\Debug\ResolveAssemblyReference.cache
+D:\forrges\workdiskoito07\ascue_kompas\ascue_kompas\obj\Debug\ascue_kompas.Options.resources
+D:\forrges\workdiskoito07\ascue_kompas\ascue_kompas\obj\Debug\ascue_kompas.Options_neotvet.resources
+D:\forrges\workdiskoito07\ascue_kompas\ascue_kompas\obj\Debug\ascue_kompas.View.resources
+D:\forrges\workdiskoito07\ascue_kompas\ascue_kompas\obj\Debug\ascue_kompas.Properties.Resources.resources
+D:\forrges\workdiskoito07\ascue_kompas\ascue_kompas\obj\Debug\ascue_kompas.csproj.GenerateResource.Cache
+D:\forrges\workdiskoito07\ascue_kompas\ascue_kompas\bin\Debug\System.Windows.Forms.DataVisualization.dll
