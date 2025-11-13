@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+PySide6
+psycopg2-binary
+pymysql
+openpyxl
+pytest
+pyodbc
